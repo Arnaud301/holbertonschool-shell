@@ -1,2 +1,2 @@
 #!/bin/bash
-dsqdqs
+chmod 753 hello
