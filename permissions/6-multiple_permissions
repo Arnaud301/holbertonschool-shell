@@ -1,2 +1,2 @@
 #!/bin/bash
-dzqds
+chmod 644 hello
