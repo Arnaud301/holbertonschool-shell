@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent ugo, chgrp staff ugo
+chown vincent o, chgrp staff o
