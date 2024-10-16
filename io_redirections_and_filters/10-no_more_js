@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f .js-* 
+find /root/holbertonschool-shell/io_redirections_and_filters/ -type f -name *.js -exec rm {} \;
