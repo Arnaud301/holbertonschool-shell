@@ -1,2 +1,2 @@
 #!/bin/bash
-def myfunc(): | global BEST | BEST = School
+export BEST=School
