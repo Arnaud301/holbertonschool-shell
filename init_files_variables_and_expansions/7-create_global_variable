@@ -1,2 +1,2 @@
 #!/bin/bash
-global BEST | BEST = School
+def myfunc(): | global BEST | BEST = School
